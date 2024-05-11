@@ -1,0 +1,34 @@
+[submodule "resoucre"]
+    path = resoucre
+    url = https://github.com/syurodev/wibutime-resoucre
+    branch = main
+
+[submodule "notification"]
+    path = notification
+    url = https://github.com/syurodev/wibutime-notification
+    branch = main
+
+[submodule "lightnovel"]
+    path = lightnovel
+    url = https://github.com/syurodev/wibutime-lightnovel
+    branch = main
+
+[submodule "gateway"]
+    path = gateway
+    url = https://github.com/syurodev/wibutime-gateway
+    branch = main
+
+[submodule "auth"]
+    path = auth
+    url = https://github.com/syurodev/wibutime-auth
+    branch = main
+
+[submodule "ai"]
+    path = ai
+    url = https://github.com/syurodev/wibutime-ai
+    branch = main
+
+[submodule "logger"]
+    path = logger
+    url = https://github.com/syurodev/wibutime-logger
+    branch = main

@@ -1,0 +1,39 @@
+# NestJS
+**/node_modules/
+**/dist/
+
+# Spring Boot
+**/target/
+**/nbproject/private/
+**/nbbuild/
+**/dist/
+**/nbdist/
+**/.nb-gradle/
+**/build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+*.apt_generated
+*.classpath
+*.factorypath
+*.project
+*.settings
+*.springBeans
+*.sts4-cache
+
+# Các file cài đặt cụ thể (tùy thuộc vào cấu hình của dự án)
+*.env
+*.env.local
+*.log
+*.lock
+*.seed
+*.pid
+*.seed
+*.pid
+*.log
+### IntelliJ IDEA ###
+**/.idea
+*.iws
+*.iml
+*.ipr
+
+**/serviceAccountKey.json
